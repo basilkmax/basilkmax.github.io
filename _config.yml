@@ -14,8 +14,8 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Basil K
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: Software Engineer
+pic: basil.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: basilk87@gmail.com
