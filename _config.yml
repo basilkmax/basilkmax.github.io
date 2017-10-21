@@ -5,7 +5,7 @@ baseurl: '' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2
+#style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -20,7 +20,7 @@ pic: basil.png  #place a 100x100 picture inside /assets/images/ folder and provi
 #sidebar links
 email: basilk87@gmail.com
 phone: +917025954537
-website:basilkmax.github.io  #do not add http://
+website:www.basilkmax.github.io  #do not add http://
 linkedin: basilkmax
 github: basilkmax
 twitter: '@basilkmax'
